@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("siva");
+	printf("hello rama");
 	return 0;
 }
 
